@@ -60,7 +60,7 @@ The codes related to B.Sc. Physics are available here.
 * *Quantum Mechanics - 3D analysis.*
 ## CC 12 - Solid State Physics
 * **Practicals.**
-## DSE 1 -Classical Dynamics
+## DSE 1 - Classical Dynamics
 * *Special relativity - numerical.*
 * *Special relativity - analytical (in sympy).*
 ## DSE 2 - Nuclear and Particle Physics
