@@ -1,5 +1,5 @@
 # BSc_Physics_Codes
-The codes related to B.Sc. Physics are available here.
+Visit these folders and explore the codes. Only the folders' names and the files' names inside are given on this page. To see more detailed documentation with one page dedicated to each folder, visit all the pages of the wiki section - https://github.com/suman122003/Tutorials/wiki.
 
 ## CC 01 - Mathematical Physics - 1
 * *1st sem (and 2nd sem) python codes in **syllabus**.* (AG mam)
