@@ -2,8 +2,11 @@
 Visit these folders and explore the codes. Only the folders' names and the files' names inside are given on this page. To see more detailed documentation with one page dedicated to each folder, visit all the pages of the wiki section - https://github.com/suman122003/BSc_Physics_Codes/wiki.
 
 ## CC 01 - Mathematical Physics - 1
+**In Syllabus:**
 * *1st sem (and 2nd sem) python codes in **syllabus**.* (AG mam)
 * **Sem 1 all codes in syllabus.** (ipynb and html file)
+
+**Other works:**
 * *Partial Derivatives.* (SKP)
 * *Vectors.* (SKP)
 * *Vector Calculus.* (SKP)
@@ -25,8 +28,11 @@ Visit these folders and explore the codes. Only the folders' names and the files
 ## GE 2 - Mathematics
 * *Matrices.*
 ## CC 05 - Mathematical Physics - 2
+**In Syllabus:**
 * *3rd sem python codes in **syllabus**.* (AG mam)
 * **Sem 3 all codes in syllabus.** (ipynb and html file)
+
+**Other works:**
 * *Special Functions.*
 ## CC 06 - Thermal Physics
 * **Practicals.**
@@ -46,9 +52,12 @@ Visit these folders and explore the codes. Only the folders' names and the files
 ## CC 10 - Analog Electronics
 * **Practicals.**
 ## CC 11 - Quantum Mechanics
+**In Syllabus:**
 * **Solving Schrodinger Equation by Numerov Method.** (AG mam)
 * **Radial part of H-atom problem.** (AG mam)
 * **Central Potential.**
+
+**Other works:**
 * *DB sir - codes based on lectures.*
 * *Ajoy Ghatak - Dirac Delta Function.*
 * *Ajoy Ghatak - Bra-Ket Algebra and Angular Momentum.*
