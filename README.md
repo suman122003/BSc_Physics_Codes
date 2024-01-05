@@ -39,7 +39,10 @@ Visit these folders and explore the codes. Only the folders' names and the files
 ## CC 07 - Digital Electronics
 * *Boolean Algebra.*
 ## CC 08 - Mathematical Physics - 3
+**In Syllabus:**
 * *4th sem python codes in **syllabus**.* (AG mam)
+
+**Other works:**
 * **Sem 4 all codes in syllabus.** (ipynb and html file)
 * *Differential Equation Solver.*
 * *Fourier Series.*
@@ -80,5 +83,12 @@ Visit these folders and explore the codes. Only the folders' names and the files
 ## CC 14 - Statistical Mechanics
 
 ## DSE 3 - 
+
+## Book - Python - Abhijit Kar Gupta
+* *Chapter 8 - Numerical Methods.*
+* *Chapter 9 - NumPy.*
+* *Chapter 10 - SciPy.*
+* *Chapter 11 - Matplotlib.*
+### Book - Santra - 3rd semester Python codes
 
 ## Others
