@@ -41,9 +41,9 @@ Visit these folders and explore the codes. Only the folders' names and the files
 ## CC 08 - Mathematical Physics - 3
 **In Syllabus:**
 * *4th sem python codes in **syllabus**.* (AG mam)
+* **Sem 4 all codes in syllabus.** (ipynb and html file)
 
 **Other works:**
-* **Sem 4 all codes in syllabus.** (ipynb and html file)
 * *Differential Equation Solver.*
 * *Fourier Series.*
 * *Fourier Transform - DFT and FFT.*
@@ -89,6 +89,6 @@ Visit these folders and explore the codes. Only the folders' names and the files
 * *Chapter 9 - NumPy.*
 * *Chapter 10 - SciPy.*
 * *Chapter 11 - Matplotlib.*
-### Book - Santra - 3rd semester Python codes
+## Book - Santra - 3rd semester Python codes
 
 ## Others
