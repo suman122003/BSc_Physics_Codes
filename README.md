@@ -42,13 +42,13 @@ Visit these folders and explore the codes. Only the folders' names and the files
 **In Syllabus:**
 * *4th sem python codes in **syllabus**.* (AG mam)
 * **Sem 4 all codes in syllabus.** (ipynb and html file)
-
-**Other works:**
 * *Differential Equation Solver.*
 * *Fourier Series.*
 * *Fourier Transform - DFT and FFT.*
-* *Integral Transforms.*
 * *Complex Integration.*
+
+**Other works:**
+* *Integral Transforms.*
 ## CC 09 - Modern Physics
 * **Practicals.**
 * *Radioactive Decay.*
