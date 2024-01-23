@@ -12,7 +12,7 @@ Visit these folders and explore the codes. Only the folders' names and the files
 * *Vector Calculus.* (SKP)
 ## CC 02 - Mechanics
 * *Moment of Inertia Tensor (discrete system).* (SKP)
-## GE 1 - Mathematics
+## GE 1 - Mathematics ex
 
 ## CC 03 - Electricity and Magnetism
 * **Practicals.**
@@ -91,4 +91,7 @@ Visit these folders and explore the codes. Only the folders' names and the files
 * *Chapter 11 - Matplotlib.*
 ## Book - Santra - 3rd semester Python codes
 
+## Book - Santra - 5th Semester Python codes
+
 ## Others
+
