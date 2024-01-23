@@ -90,7 +90,8 @@ Visit these folders and explore the codes. Only the folders' names and the files
 * *Chapter 10 - SciPy.*
 * *Chapter 11 - Matplotlib.*
 ## Book - Santra - 3rd semester Python codes
-
+* *Fourier Transform - DFT and FFT.*
+* *Complex Integration.*
 ## Book - Santra - 5th semester Python codes
 
 ## Others
