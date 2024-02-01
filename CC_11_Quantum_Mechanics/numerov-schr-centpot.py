@@ -8,9 +8,9 @@ def Psi(mhdx2,psi,Vi,E):
     P=[mhdx2*(Vi[i]-E) for i in range(N)]
 
     for i in range(2,N):
-        d=1-1/12*P[i]
-        a=2*(1+5/12*P[i-1])
-        b=-(1-1/12*P[i-2])
+        d = 1-1/12*P[i]
+        a = 2*(1+5/12*P[i-1])
+        b = -(1-1/12*P[i-2])
         psiE[i]=a/d*psiE[i-1]+b/d*psiE[i-2]
     return psiE
 
