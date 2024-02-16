@@ -56,9 +56,12 @@ Visit these folders and explore the codes. Only the folders' names and the files
 * **Practicals.**
 ## CC 11 - Quantum Mechanics
 **In Syllabus:**
-* **Solving Schrodinger Equation by Numerov Method.** (AG mam)
-* **Radial part of H-atom problem.** (AG mam)
-* **Central Potential.**
+* **1 - Eigenvalue problems**
+* **2 - Central difference Method**
+* **3 - Numerov Method**
+* Solving Schrodinger Equation by Numerov Method. (AG mam)
+* Radial part of H-atom problem. (AG mam)
+* Central Potential.
 
 **Other works:**
 * *DB sir - codes based on lectures.*
@@ -89,9 +92,9 @@ Visit these folders and explore the codes. Only the folders' names and the files
 * *Chapter 9 - NumPy.*
 * *Chapter 10 - SciPy.*
 * *Chapter 11 - Matplotlib.*
-## Book - Santra - 3rd semester Python codes
+## Book - 3rd semester Python codes
 * *Fourier Transform - DFT and FFT.*
 * *Complex Integration.*
-## Book - Santra - 5th semester Python codes
+## Book - 4th and 5th semester Python codes
 
 ## Others
