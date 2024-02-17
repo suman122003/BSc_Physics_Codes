@@ -3,84 +3,81 @@ Visit these folders and explore the codes. Only the folders' names and the files
 
 ## CC 01 - Mathematical Physics - 1
 **In Syllabus:**
-* *1st sem (and 2nd sem) python codes in **syllabus**.* (AG mam)
-* **Sem 1 all codes in syllabus.** (ipynb and html file)
+* *1st sem (and 2nd sem) python codes in **syllabus*** (AG mam)
+* **Sem 1 all codes in syllabus** (ipynb and html file)
 
 **Other works:**
-* *Partial Derivatives.* (SKP)
-* *Vectors.* (SKP)
-* *Vector Calculus.* (SKP)
+* *Partial Derivatives* (SKP)
+* *Vectors* (SKP)
+* *Vector Calculus* (SKP)
 ## CC 02 - Mechanics
-* *Moment of Inertia Tensor (discrete system).* (SKP)
+* *Moment of Inertia Tensor (discrete system)* (SKP)
 ## GE 1 - Mathematics
 
 ## CC 03 - Electricity and Magnetism
-* **Practicals.**
-* *LR circuit.*
-* *RC circuit.*
-* *LCR circuit.*
-* *LC circuit.*
+* **Practicals**
+* *LR circuit*
+* *RC circuit*
+* *LCR circuit*
+* *LC circuit*
 ## CC 04 - Waves and Optics
-* **Practicals.**
-* *Simple Harmonic Oscillations.*
-* *Damped Oscillations.*
-* *Forced Oscillations.*
+* **Practicals**
+* *Simple Harmonic Oscillations*
+* *Damped Oscillations*
+* *Forced Oscillations*
 ## GE 2 - Mathematics
-* *Matrices.*
+* *Matrices*
 ## CC 05 - Mathematical Physics - 2
 **In Syllabus:**
-* *3rd sem python codes in **syllabus**.* (AG mam)
-* **Sem 3 all codes in syllabus.** (ipynb and html file)
+* *3rd sem python codes in **syllabus*** (AG mam)
+* **Sem 3 all codes in syllabus** (ipynb and html file)
 
 **Other works:**
-* *Special Functions.*
+* *Special Functions*
 ## CC 06 - Thermal Physics
-* **Practicals.**
+* **Practicals**
 ## CC 07 - Digital Electronics
-* *Boolean Algebra.*
+* *Boolean Algebra*
 ## CC 08 - Mathematical Physics - 3
 **In Syllabus:**
-* *4th sem python codes in **syllabus**.* (AG mam)
-* **Sem 4 all codes in syllabus.** (ipynb and html file)
-* *Differential Equation Solver.*
-* *Fourier Series.*
-* *Fourier Transform - DFT and FFT.*
-* *Complex Integration.*
+* *4th sem python codes in **syllabus*** (AG mam)
+* **Sem 4 all codes in syllabus** (ipynb and html file)
+* *Differential Equation Solver*
+* *Fourier Series*
+* *Fourier Transform - DFT and FFT*
+* *Complex Integration*
 
 **Other works:**
-* *Integral Transforms.*
+* *Integral Transforms*
 ## CC 09 - Modern Physics
-* **Practicals.**
-* *Radioactive Decay.*
+* **Practicals**
+* *Radioactive Decay*
 ## CC 10 - Analog Electronics
-* **Practicals.**
+* **Practicals**
 ## CC 11 - Quantum Mechanics
 **In Syllabus:**
 * **1 - Eigenvalue problems**
 * **2 - Central difference Method**
 * **3 - Numerov Method**
-* Solving Schrodinger Equation by Numerov Method. (AG mam)
-* Radial part of H-atom problem. (AG mam)
-* Central Potential.
-
+* *Schrodinger equation by central difference method*
+* *Shcrodinger equation by Numerov method*
+* **Exam questions - 2023**
 **Other works:**
-* *DB sir - codes based on lectures.*
-* *Ajoy Ghatak - Dirac Delta Function.*
-* *Ajoy Ghatak - Bra-Ket Algebra and Angular Momentum.*
-* *Time evolution of Gaussian wavepacket.*
-* *H-atom problem - Symbolic Solution and visualization.*
-* *Angular momentum matrices.*
-* *Quantum Mechanics - 1D analysis.*
-* *Quantum Mechanics - 2D analysis.*
-* *Quantum Mechanics - 3D analysis.*
+* *Codes based on college lectures*
+* *Dirac Delta Function*
+* *Bra-Ket Algebra and Angular Momentum*
+* *Time evolution of Gaussian wavepacket*
+* *H-atom problem - Symbolic Solution and visualization*
+* *Angular momentum matrices*
+* *Quantum Mechanics - 1D analysis*
 ## CC 12 - Solid State Physics
-* **Practicals.**
+* **Practicals**
 ## DSE 1 - Classical Dynamics
-* *Special relativity - numerical.*
-* *Special relativity - analytical (in sympy).*
+* *Special relativity - numerical*
+* *Special relativity - analytical (in sympy)*
 ## DSE 2 - Nuclear and Particle Physics
-* *Semi empirical mass formula.*
-* *Nuclear Spin.*
+* *Semi empirical mass formula*
+* *Nuclear Spin*
 ## CC 13 - Electromagnetic Theory
 
 ## CC 14 - Statistical Mechanics
@@ -88,13 +85,13 @@ Visit these folders and explore the codes. Only the folders' names and the files
 ## DSE 3 - 
 
 ## Book - Python - Abhijit Kar Gupta
-* *Chapter 8 - Numerical Methods.*
-* *Chapter 9 - NumPy.*
-* *Chapter 10 - SciPy.*
-* *Chapter 11 - Matplotlib.*
+* *Chapter 8 - Numerical Methods*
+* *Chapter 9 - NumPy*
+* *Chapter 10 - SciPy*
+* *Chapter 11 - Matplotlib*
 ## Book - 3rd semester Python codes
-* *Fourier Transform - DFT and FFT.*
-* *Complex Integration.*
+* *Fourier Transform - DFT and FFT*
+* *Complex Integration*
 ## Book - 4th and 5th semester Python codes
 
 ## Others
