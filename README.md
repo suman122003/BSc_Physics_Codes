@@ -82,16 +82,5 @@ Visit these folders and explore the codes. Only the folders' names and the files
 
 ## CC 14 - Statistical Mechanics
 
-## DSE 3 - 
+## DSE 3 - Nano materials
 
-## Book - Python - Abhijit Kar Gupta
-* *Chapter 8 - Numerical Methods*
-* *Chapter 9 - NumPy*
-* *Chapter 10 - SciPy*
-* *Chapter 11 - Matplotlib*
-## Book - 3rd semester Python codes
-* *Fourier Transform - DFT and FFT*
-* *Complex Integration*
-## Book - 4th and 5th semester Python codes
-
-## Others
