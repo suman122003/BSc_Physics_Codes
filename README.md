@@ -62,6 +62,7 @@ Visit these folders and explore the codes. Only the folders' names and the files
 * *Schrodinger equation by central difference method*
 * *Shcrodinger equation by Numerov method*
 * **Exam questions - 2023**
+
 **Other works:**
 * *Codes based on college lectures*
 * *Dirac Delta Function*
