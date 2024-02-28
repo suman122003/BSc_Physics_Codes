@@ -1,17 +1,17 @@
-# BSc_Physics_Codes
+# B.Sc. Physics Codes
 Visit these folders and explore the codes. Only the folders' names and the files' names inside are given on this page. To see more detailed documentation with one page dedicated to each folder, visit all the pages of the **Wiki section** - https://github.com/suman122003/BSc_Physics_Codes/wiki.
 
 ## CC 01 - Mathematical Physics - 1
 **In Syllabus:**
-* *1st sem (and 2nd sem) python codes in **syllabus*** (AG mam)
 * **Sem 1 all codes in syllabus** (ipynb and html files)
+* *1st sem (and 2nd sem) python codes in **syllabus***
 
 **Other works:**
-* *Partial Derivatives* (SKP)
-* *Vectors* (SKP)
-* *Vector Calculus* (SKP)
+* *Partial Derivatives*
+* *Vectors*
+* *Vector Calculus*
 ## CC 02 - Mechanics
-* *Moment of Inertia Tensor (discrete system)* (SKP)
+* *Moment of Inertia Tensor (discrete system)*
 ## GE 1 - Mathematics
 
 ## CC 03 - Electricity and Magnetism
@@ -29,8 +29,8 @@ Visit these folders and explore the codes. Only the folders' names and the files
 * *Matrices*
 ## CC 05 - Mathematical Physics - 2
 **In Syllabus:**
-* *3rd sem python codes in **syllabus*** (AG mam)
 * **Sem 3 all codes in syllabus** (ipynb and html files)
+* *3rd sem python codes in **syllabus***
 
 **Other works:**
 * *Special Functions*
@@ -40,8 +40,8 @@ Visit these folders and explore the codes. Only the folders' names and the files
 * *Boolean Algebra*
 ## CC 08 - Mathematical Physics - 3
 **In Syllabus:**
-* *4th sem python codes in **syllabus*** (AG mam)
 * **Sem 4 all codes in syllabus** (ipynb and html files)
+* *4th sem python codes in **syllabus***
 * *Differential Equation Solver*
 * *Fourier Series*
 * *Fourier Transform - DFT and FFT*
