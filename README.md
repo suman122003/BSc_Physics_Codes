@@ -56,6 +56,7 @@ Visit these folders and explore the codes. Only the folders' names and the files
 * **Practicals**
 ## CC 11 - Quantum Mechanics
 **In Syllabus:**
+* **Sem 5 all codes in syllabus** (ipynb and html files)
 * **1 - Eigenvalue problems**
 * **2 - Central difference Method**
 * **3 - Numerov Method**
