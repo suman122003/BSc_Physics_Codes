@@ -4,7 +4,7 @@ Visit these folders and explore the codes. Only the folders' names and the files
 ## CC 01 - Mathematical Physics - 1
 **In Syllabus:**
 * *1st sem (and 2nd sem) python codes in **syllabus*** (AG mam)
-* **Sem 1 all codes in syllabus** (ipynb and html file)
+* **Sem 1 all codes in syllabus** (ipynb and html files)
 
 **Other works:**
 * *Partial Derivatives* (SKP)
@@ -30,7 +30,7 @@ Visit these folders and explore the codes. Only the folders' names and the files
 ## CC 05 - Mathematical Physics - 2
 **In Syllabus:**
 * *3rd sem python codes in **syllabus*** (AG mam)
-* **Sem 3 all codes in syllabus** (ipynb and html file)
+* **Sem 3 all codes in syllabus** (ipynb and html files)
 
 **Other works:**
 * *Special Functions*
@@ -41,7 +41,7 @@ Visit these folders and explore the codes. Only the folders' names and the files
 ## CC 08 - Mathematical Physics - 3
 **In Syllabus:**
 * *4th sem python codes in **syllabus*** (AG mam)
-* **Sem 4 all codes in syllabus** (ipynb and html file)
+* **Sem 4 all codes in syllabus** (ipynb and html files)
 * *Differential Equation Solver*
 * *Fourier Series*
 * *Fourier Transform - DFT and FFT*
