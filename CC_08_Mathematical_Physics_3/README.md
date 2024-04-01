@@ -58,7 +58,7 @@ Code for getting Fourier series (both analytical and numerical) is given here.
 
 ## Integral Transforms [file](Integral_Transforms_SKP.ipynb)
 
-$$ I(F(t)) = \int_0^x F(t) K(x,t) dt = f(x) $$
+$$I(F(t)) = \int_0^x F(t) K(x,t) dt = f(x)$$
 Where, $K(x,t)$ is called the kernel.
 
 Code for analytic solution of Laplace transform is given here.
