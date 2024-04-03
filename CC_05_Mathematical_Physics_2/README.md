@@ -27,8 +27,7 @@ Here a function is defined to fit a polynomial in some given data.
 For a fitting polynomial, 
 $$y = a_0 +a_1 x +a_2 x^2 +... +a_n x^n = \sum_{i=0}^n a_i x^i$$
 The fitting parameters can be calculated by the matrix relation (for $n=3$);
-$$
-\begin{bmatrix}
+$$\begin{bmatrix}
 a_0 \\
 a_1 \\
 a_2 \\
@@ -43,7 +42,7 @@ n & \sum x & \sum x^2 \\
 \sum y \\
 \sum xy \\
 \sum x^2y \\
-\end{bmatrix} $$
+\end{bmatrix}$$
 
 This idea can be extended for higher degree polynomials. We can do this by available functions, `polyfit` (in `numpy`) and `curve_fit` (in `scipy.optimize`) also.
 
