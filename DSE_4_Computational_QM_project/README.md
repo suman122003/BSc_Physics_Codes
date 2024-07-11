@@ -1,5 +1,13 @@
 # A Computational Approach to Quantum Mechanics Using Python
 
+## Evolution of Wavefunction for Bound State Problem (Linear Harmonic Oscillator)
+
+### Energy Eigenstate
+![Eigenstate](https://github.com/suman122003/BSc_Physics_Codes/blob/main/DSE_4_Computational_QM_project/plots/eigenstate.gif)
+
+### Superposed State
+![Superposed State](https://github.com/suman122003/BSc_Physics_Codes/blob/main/DSE_4_Computational_QM_project/plots/superposed_state.gif)
+
 ## Gaussian Wavepacket under Different Potentials
 
 ### Gaussian wavepacket under Free Potential
