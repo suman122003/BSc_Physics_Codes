@@ -3,9 +3,11 @@
 ## Evolution of Wavefunction for Bound State Problem (Linear Harmonic Oscillator)
 
 ### Energy Eigenstate
+Here, $\phi_{5}$ is plotted with its time evolution.
 ![Eigenstate](https://github.com/suman122003/BSc_Physics_Codes/blob/main/DSE_4_Computational_QM_project/plots/eigenstate.gif)
 
 ### Superposed State
+Here, $\psi = 10\phi_{2}+6\phi_{3}+4\phi_{4}+5\phi_{5}+4\phi_{6}+7\phi_{7}$ is plotted with its time evolution.
 ![Superposed State](https://github.com/suman122003/BSc_Physics_Codes/blob/main/DSE_4_Computational_QM_project/plots/superposed_state.gif)
 
 ## Gaussian Wavepacket under Different Potentials
