@@ -1,5 +1,7 @@
 # A Computational Approach to Quantum Mechanics Using Python
 
+To run all these codes properly, download all the files present in this folder and keep all those files (with the same file name) inside a folder in your local device.
+
 ## Evolution of Wavefunction for Bound State Problem (Linear Harmonic Oscillator)
 The codes to run are in the file [presentation_bndst.py](presentation_bndst.py).
 
