@@ -1,6 +1,7 @@
 # A Computational Approach to Quantum Mechanics Using Python
 
 ## Evolution of Wavefunction for Bound State Problem (Linear Harmonic Oscillator)
+The codes to run are in the file [presentation_bndst.py](presentation_bndst.py).
 
 ### Energy Eigenstate
 Here, $\phi_{5}$ is plotted with its time evolution.
@@ -13,6 +14,7 @@ Here, $\psi = 10\phi_{2}+6\phi_{3}+4\phi_{4}+5\phi_{5}+4\phi_{6}+7\phi_{7}$ is p
 ![Superposed State](https://github.com/suman122003/BSc_Physics_Codes/blob/main/DSE_4_Computational_QM_project/plots/superposed_state.gif)
 
 ## Gaussian Wavepacket under Different Potentials
+The codes to run are in the file [presentation_gaussn.py](presentation_gaussn.py).
 
 ### Gaussian wavepacket under Free Potential
 ![Gaussian wavepacket under Free Potential](https://github.com/suman122003/BSc_Physics_Codes/blob/main/DSE_4_Computational_QM_project/plots/pot_free.gif)
