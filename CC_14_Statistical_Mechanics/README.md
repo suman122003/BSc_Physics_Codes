@@ -4,6 +4,8 @@
 (.ipynb and .html files)
 
 > Specific Heat of Solids
+
 > Blackbody Radiation
+
 > Statistical Distributions
 
